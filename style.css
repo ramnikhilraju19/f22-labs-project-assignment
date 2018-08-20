@@ -1,0 +1,23 @@
+body {
+     background-image: url("BG.jpg");
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+.form {
+    position: fixed;
+    height:50%;
+    width: 50%;
+    bottom: 25%;
+    right: 33%;
+    left: 27%;
+    background-color: ghostwhite;
+    box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+}
+
+.table{
+    background-color: aqua;
+}
